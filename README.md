@@ -12,7 +12,7 @@
 # Delay-adaptive Control of Nonlinear Systems with Approximate Neural Operator Predictors
 
 <div align="center">
- <a href="#"><img alt="Main result from the paper" src="docs/media/res.pdf" width="100%"/></a>
+ <a href="#"><img alt="Main result from the paper" src="docs/media/res.jpg" width="100%"/></a>
 </div>
 
 ## About this respository
