@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ccsd.ucsd.edu/home">
-    <img align="left" src="docs/media/CCSD.png" width="80" alt="erl">
+    <img align="left" src="docs/media/CCSD.png" width="260" alt="ccsd">
   </a>
   <a href="https://ucsd.edu/">
     <img align="right" src="docs/media/ucsd.png" width="260" alt="ucsd">
